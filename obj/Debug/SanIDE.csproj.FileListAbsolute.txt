@@ -1,0 +1,20 @@
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\obj\Debug\SanIDE.csproj.AssemblyReference.cache
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\obj\Debug\SanIDE.csproj.SuggestedBindingRedirects.cache
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\obj\Debug\SanIDE.Form1.resources
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\obj\Debug\SanIDE.Properties.Resources.resources
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\obj\Debug\SanIDE.csproj.GenerateResource.cache
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\obj\Debug\SanIDE.csproj.CoreCompileInputs.cache
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\bin\Debug\FastColoredTextBox.dll
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\bin\Debug\FastColoredTextBox.xml
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\obj\Debug\SanIDE.csproj.CopyComplete
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\obj\Debug\SanIDE.HTMLPreview.resources
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\bin\Debug\AutocompleteMenu.dll
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\bin\Debug\San IDE.exe.config
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\bin\Debug\San IDE.exe.manifest
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\bin\Debug\San IDE.application
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\bin\Debug\San IDE.exe
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\bin\Debug\San IDE.pdb
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\obj\Debug\San IDE.exe.manifest
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\obj\Debug\San IDE.application
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\obj\Debug\San IDE.exe
+D:\Users\MAS\Desktop\my works\c++ learning\Learning\Vs\SanIDE\SanIDE\obj\Debug\San IDE.pdb

@@ -1,0 +1,12 @@
+<?php
+
+
+function MyFuncion($int) {
+    if($int >= 5){
+        echo "Int is".$int;
+    } else {    
+        echo "Int is :".$int;
+    }
+}
+
+MyFuncion(5); 
